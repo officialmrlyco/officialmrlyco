@@ -40,6 +40,7 @@
 
 | Repository | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
+| 🎬 **[compose-gesture-player](https://github.com/officialmrlyco/compose-gesture-player)** | Jetpack Compose + ExoPlayer video player with VLC/YouTube gestures | Kotlin, Compose, Media3 | Open Source |
 | 💳 **[mpesa_parser](https://github.com/officialmrlyco/mpesa_parser)** | High-accuracy Dart parser for M-PESA Till, PayBill & STK SMS | Dart, pub.dev | Open Source |
 | 📷 **[compose-voucher-ocr](https://github.com/officialmrlyco/compose-voucher-ocr)** | Jetpack Compose + MLKit OCR airtime scratch-card scanner | Kotlin, Jetpack Compose | Open Source |
 | ⚡ **[AirtimeFastRecharger](https://github.com/officialmrlyco/AirtimeFastRecharger)** | Bulk voucher scanner & automated USSD top-up runner | Jetpack Compose, MLKit | Open Source |
